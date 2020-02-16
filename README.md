@@ -1,5 +1,7 @@
 # A03
 
+# To use GIT and GitHub, you need an IDE, such as WebStorm, to code in. Once downloading GIT and setting up GitHub, you need to create a repository on GitHub. After creating it, you must clone that repository on your local machine. Afterwards, you link your GitHub account to your IDE. Once everything is connected, you should be able to make commit changes to your files and either push or pull content to and from GitHub and your local machine.
+
 # GIT - A software that allows for tracking of changes in any file, for the most part code, and coordinates changes on the files/code among several people.
 
 # GITHUB - A company that not only is a repository for GIT, but one that is easily accessible. It is collaborative, accessible through your browser, and for the most part used for hosting code.
